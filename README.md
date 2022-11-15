@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-My name is Kate, I am 28 years old and I'm a frontend developer. I have been doing programming for about 1 year, trying out different technologies. I want to work on interesting web-projects, have extensive teamwork experience and presentation of launched products.
+My name is Kate, I am 28 years old and I'm a frontend developer. I have been doing programming for about 1 year, trying out different technologies. I want to work on interesting web-projects and have extensive teamwork experience.
+
+📌 My Skills
++ HTML, CSS (SCSS), JavaScript, React, Tailwind, jQuery, Figma
 
 <!--
 **nbirdie/nbirdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
