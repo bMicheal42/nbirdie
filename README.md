@@ -7,7 +7,7 @@
 My name is Kate, I am 28 years old and I'm a frontend developer. I have been doing programming for about 1 year, trying out different technologies. I want to work on interesting web-projects and have extensive teamwork experience.
 
 📌 My Skills
-+ HTML, CSS (SCSS), JavaScript, React, Tailwind, jQuery, Figma
++ HTML, CSS (SCSS), JavaScript, React, Tailwind, jQuery, Figma, Webpack, Typescript
 
 ![nbirdie GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbirdie&count_private=true&hide=contribs&include_all_commits=True&show_icons=true&theme=default)
 
